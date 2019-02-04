@@ -1,7 +1,7 @@
 Resources
 =========
 
-Programming
+Python
 -----------
 
 - Python Cheatsheet: https://github.com/adc4392/resources-and-notes.git
