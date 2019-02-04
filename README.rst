@@ -24,6 +24,7 @@ Procedural Generation
 
 - Procedural Content Generation Wiki: http://pcg.wikidot.com/
 - Generating maps: http://mewo2.com/notes/terrain/
+- Polygonal map generation: http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/
 
 Python
 -----------
