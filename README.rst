@@ -18,6 +18,7 @@ Engines
 - LOVE: http://love2d.org/
 - Defold: https://www.defold.com/
 - Godot: https://godotengine.org/
+- Evennia: http://www.evenia.com (sort of an engine. more of a framework)
 
 Procedural Generation
 -----------------------
