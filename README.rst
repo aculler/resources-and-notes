@@ -8,7 +8,10 @@ General
 ^^^^^^^
 
 - AI: A Modern Approach: http://aima.cs.berkeley.edu/
+- Asset Forge: http://assetforge.io/
 - Game Programming Patterns: http://gameprogrammingpatterns.com/
+- MagicVoxel: https://ephtracy.github.io/
+- Open Game Art: https://opengameart.org/
 - Roguelike w/ Python+libtcod: http://rogueliketutorials.com/libtcod/1
 - Roguelike Dev FAQs: https://www.reddit.com/r/gamedev/comments/5r4f2c/two_years_of_roguelike_development_faqs/
 
@@ -23,6 +26,7 @@ Engines
 Procedural Generation
 -----------------------
 
+- EarSlap: Procedural Music Genration: http://earslap.com/page/otomata.html
 - Procedural Content Generation Wiki: http://pcg.wikidot.com/
 - Generating maps: http://mewo2.com/notes/terrain/
 - Polygonal map generation: http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/
